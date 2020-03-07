@@ -104,6 +104,8 @@ Sí, ahora tenemos nuestro servidor local! Que divino y tambien vamos a tener un
 Por si no se dieron cuenta el localhost, servidor local se abre con la siguiente dirección: http://127.0.0.1:8000/
 Podemos copiar la dirección o simplemente en la terminar apretar alt+click y nos abre el enlace en nuestro navegador de preferencia.
 
+Otra cosa que les dije antes. Uno de los archivos magicos que crea es la base de datos db.sqlite3.
+
 
 
 ***********************************************
