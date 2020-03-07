@@ -9,9 +9,9 @@ Proyecto 1er año Circo-bIt
 Grupo integrado por Camilo, Darío, Maite, Mathias y Victoria.
 
 
-****************************************************
-## Development environment / Ambiente de desarrollo ##
-****************************************************
+********************************************************
+### Development environment / Ambiente de desarrollo ###
+********************************************************
 We will use conda as a virtual development environment. In your version 3.18.9
 Django as a development framework in your version 2.0
 MySQL in this latest version.
@@ -20,7 +20,7 @@ Utilizaremos conda como entorno virtual de desarrollo. En su version 3.18.9
 Django como framework de desarrollo en su version 2.0.2
 MySQL en su ultima versión.
 
-# Instrucciones para poder crearlo #
+### Instrucciones para poder crearlo ###
 1- instalar anaconda.
 
 2- Abrir anaconda powershell promp.
@@ -52,7 +52,7 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 
 
 ***********************************************
-# Create functions // Funciones a desarrollar #
+###  Create functions // Funciones a desarrollar ### 
 ***********************************************
 
 1- Register and login to profile users area // Registro y login hacia el area del perfil de usuario.
@@ -64,7 +64,7 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 4- Create a chat to start a conversation with the kooveters // Crear un chat para hablar con los kooveters cuando sea necesario.
 
 ======================================================================================
-# important info  and contact info/ Información importante e información de contacto #
+###  important info  and contact info/ Información importante e información de contacto ### 
 ======================================================================================
 PCNAME de desarrllo padre MATHIAS PC.
 PCNAMES de prueba CAMILO, DARIO, MAITE y VICTORIA.
@@ -74,7 +74,7 @@ Unificación de versiones a cargo de Mathias Alvez = @msalvez
 Desarrolladores de ambientes de prueba = Maite Navratil(@maitomomi), Victoria Flores(@VitoFlores) y Camilo Mandressi(@camilomandressi).
 
 ================
-# CONTROL LOGS #
+### CONTROL LOGS ### 
 ================
 
 ***07/03 - 15:30: Cambio de la estructura general del proyecto (Mathias A.)***
