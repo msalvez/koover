@@ -106,6 +106,10 @@ Podemos copiar la dirección o simplemente en la terminar apretar alt+click y no
 
 Otra cosa que les dije antes. Uno de los archivos magicos que crea es la base de datos db.sqlite3.
 
+Cuando abrimos el servidor local vemos la bienvenida de Django a nuestro proyecto y tambien vemos que nos muestra que desde nuestro archivo settings esta activado el MODE DEBUG, que es correcto ya que lo desactivariamos unicamente en el modo de producción. Es decir cuando este funcional o en linea.
+
+El archivo de la instalación inicial esta en inglés y porque el mio se ve en español. Porque le modifique una variable en la pagina settings. Modificando el "lenguaje_code='en-us'" por "LANGUAGE_CODE = 'es'"
+
 
 
 ***********************************************
