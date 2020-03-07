@@ -67,6 +67,22 @@ conda install pylint
 
 Presionamos enter y dejamos que la magia suceda. Luego le decimos que procesa presionando la tecla **Y**. 
 
+*************************************************
+### Descripcion de los archivs que instalo Django ###
+*************************************************
+
+**/manage.py** - Es un script que sirve para gestionar todo nuestro proyecto desde la conosola y lo vamos a usar un monton.
+
+**../koover/** - Esta carpeta contiene todos los scripts iniciales de configuracion y de despliegue del proyecto.
+
+**../koover/__init__.py** - El init nos indica que esta carpeta es un paquete 
+
+**../koover/settings.py** - El settings es el que contiene la configuración del proyecto, es decir donde la magia sucede.
+
+**../koover/urls.py** - Es el fichero encargado de manejar las urls de la web, direcciones amigables, etc.
+
+**../koover/wsgi.py** - Contiene el codigo que desplegara nuestro proyecto en producción.
+
 
 ***********************************************
 ###  Create functions // Funciones a desarrollar ### 
