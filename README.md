@@ -77,7 +77,7 @@ Desarrolladores de ambientes de prueba = Maite Navratil(@maitomomi), Victoria Fl
 # CONTROL LOGS #
 ================
 
-# 07/03 - 15:30: Cambio de la estructura general del proyecto (Mathias A.) #
+***07/03 - 15:30: Cambio de la estructura general del proyecto (Mathias A.)***
 1- Se remplazan carpetas por las carpetas a utilizar en la version final del proyecto.
 
 
