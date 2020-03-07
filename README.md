@@ -172,8 +172,19 @@ La función para declarar las plantillas es:
 ***def tpsicologos(request):
     return render(request,"core/terapeuticos-psicologos.html")
 	***
+	
+#### Herencia en las plantillas ####
+Como ya sabran en programación cuando estamos repitiendo el codigo es porque algo estamos haciendo mal, y sí, lo hemos estando realizado mal. El motivo era claro, se debía a que html es un leguaje estructural e inmutable pero con Django la historia es otra.
+Lo que realizaremos es la creacion de los bloques de contenido que lo vamos a ver modularizado en el nuevo archivo creado llamado template.html. El cual se va a estar extendiendo a lo largo de todas las plantillas.
 
+¿Como se crea una extención o un bloque de contenido?
 
+Lo estaremos creando con el siguiente código {% block content %} {% endblock %}, el cual es creado en la plantilla eliminando lo que seria el contenido dinamico.
+Que realiza este bloque una extencion en una plantilla fija. En otras palabras, en la plantilla.html dejamos los elementos que vamos a mostrar de manera permanente en todos nuestros archivos html y extendemos el bloque a las plantillas que queremos optimzar el codigo.
+
+Para extender tenemos que utilizar el bloque extends llamandolo {% extends 'core/plantilla.html' %} y colocando el contenido dinamico de nuestras plantillas como la de la pagina de incio dentro del bloque. {% block content %} codigo html {% endblock %}
+
+Los únicos archivos templates html que son diferentes al resto de los archivo son el login y el registro.
 
 
 ***********************************************
