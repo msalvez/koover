@@ -50,7 +50,14 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 
 8- Ahora podemos abrir nuestro editor de codigo de preferencia. (Recomendamos usar Visual estudio code ya que detecta el ambiente de desarrollo automaticamente, lo vemos en el borde inferior izquierdo del editor tenemos que abrir el archivo manage.py (Demora un poco en cargar el ambiente pero tendria que cargarles algo como esto "Python 3.7.6 (conda)"), cuando les aparezca el ambiente le vamos a dar click y en el buscador vamos a colocar py36 y le vamos a dar click. Se va a recargar la pagina y luego vamos a abrir la terminal.)
 
+El resultado de este punto es:
 
+Microsoft Windows [Versión 6.3.9600]
+(c) 2013 Microsoft Corporation. Todos los derechos reservados.
+
+C:\curso-python\koover>C:\ProgramData\Miniconda3\Scripts\activate C:\Users\MathiasPC\Anaconda3\envs\py36
+
+(py36) C:\curso-python\koover>
 
 
 ***********************************************
