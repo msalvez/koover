@@ -164,8 +164,11 @@ Los templates estan ubicados en la carpeta core/templates. Para de esta manera s
 
 Ahora como estamos trabajando con django tenemos que crear una carpeta core dentro de la carpeta templates, para de esta manera continuar respetando la logica del framework. Entonces lo que hacemos es colocar todos los archivos HTML dentro de la carpeta ***templates/core/***
 Logica:
+
 Cada uno de los templates desde el archivo de las vistas fue llamado al archivo de las urls.py y es definido y rotulado.
+
 La función para declarar las plantillas es:
+
 ***def tpsicologos(request):
     return render(request,"core/terapeuticos-psicologos.html")
 	***
