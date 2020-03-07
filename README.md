@@ -145,7 +145,18 @@ Lo voy a empezar a utilizar porque es aca donde se definen las vistas de la app.
 Lo primero que cree fue el importador del HttpResponse, voy a empezar a crear las vistas y luego desde el archivo urls.py y voy a importar las vistas. 
 ¿Como importo las vistas? lo realizo colocando el siguiente codigo: from core import views (Es decir realizo la importación).
 Luego coloco el path que se coloca dentro desde las URLPATTERS, llamando al parche (path). path('', views.home, name="home")
-Esta vista creada de ejemplo es el HOME inicio.
+Esta vista creada de ejemplo es el HOME el nuevo INICIO.
+
+Conociendo a donde tenemos que empezar a realizar los cambios lo que vamos a comenzar a hacer es a intervenir el CORE para que de esta manera podamos ejecutar cada una de nuestras vistas es decir nuestros archivos HTML creados anteriormente. 
+Para eso tomo a Koover.uy/beta como punto de referencia funcional y empiezo a llamar a los archivos
+
+Index.html ahora Inicio.html
+Login.html 
+Registro.html
+Nosotros.html
+
+y de esta manera lo hacemos con todos los archivos.
+
 
 
 
