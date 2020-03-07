@@ -8,9 +8,6 @@ Group composed of Camilo, Darío, Maite, Mathias and Victoria
 Proyecto 1er año Circo-bIt
 Grupo integrado por Camilo, Darío, Maite, Mathias y Victoria.
 
-*************************************
-end description / fin descripción
-*************************************
 
 ****************************************************
 # Development environment / Ambiente de desarrollo #
@@ -40,17 +37,19 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 7- Nos dirigimos a la carpeta user en nuestro pc buscamos a nuestro usuario ejempo MathiasPC y alli buscamos nuestro proyecto koover el cual al iniciarse contiene las siguientes carpetas:
 
 /manage.py
+
 ../koover/
+
 ../koover/__init__.py
+
 ../koover/settings.py
+
 ../koover/urls.py
+
 ../koover/wsgi.py
 
 
 
-*********************************************************************************************
-fin development enviroment description / Fin de la descripción del ambiente de desarrollo
-*********************************************************************************************
 
 ***********************************************
 # Create functions // Funciones a desarrollar #
