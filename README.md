@@ -132,6 +132,20 @@ Donde vemos estas apps que instalamos las vemos luego de ejecutar el comando man
     'django.contrib.staticfiles',
 ]**
 
+Acá es donde vamos a modularizar las apps que vamos a ir creando es decir las funciones que las podemos ir reutilizando! 
+
+Entonces que vamos hacer ahora el nucleo de nuestra aplicación, el core.
+
+Para poder hacerlo vamos a ir a nuestra consola y vamos a escribir python manage.py startapp core 
+Luego de realizado esto es que se crea la carpeta **CORE**.
+
+El core tiene nuevos ficheros que se corresponden a la libreria de las apps, pero de estos ficheros el mas importante es el views.py que es el que voy a empezar a utilizar.
+Lo voy a empezar a utilizar porque es aca donde se definen las vistas de la app.
+
+Lo primero que cree fue el importador del HttpResponse, voy a empezar a crear las vistas y luego desde el archivo urls.py y voy a importar las vistas. 
+¿Como importo las vistas? lo realizo colocando el siguiente codigo: from core import views (Es decir realizo la importación).
+Luego coloco el path que se coloca dentro desde las URLPATTERS, llamando al parche (path). path('', views.home, name="home")
+Esta vista creada de ejemplo es el HOME inicio.
 
 
 
