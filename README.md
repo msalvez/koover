@@ -99,6 +99,11 @@ Uno de los comandos importantes es runserver.
 Ahora como desplegamos el servidor en nuestro entorno de desarrollo. 
 Es algo simple, lo que vamos a tener que ejecutar en la consola de comandos de visual estudio code es un comando y vamos a colocarlo ***python manage.py runserver**** presionamos enter y vamos a ver que pasa!
 
+Sí, ahora tenemos nuestro servidor local! Que divino y tambien vamos a tener unos archivos magicos que voy a estar describiendo más adelante. 
+
+Por si no se dieron cuenta el localhost, servidor local se abre con la siguiente dirección: http://127.0.0.1:8000/
+Podemos copiar la dirección o simplemente en la terminar apretar alt+click y nos abre el enlace en nuestro navegador de preferencia.
+
 
 
 ***********************************************
