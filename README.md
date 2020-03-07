@@ -118,6 +118,20 @@ Run 'python manage.py migrate' to apply them." Enconces bueno hay que aplicar es
 
 Tenemos que pausar el servidor presionando control+c y luego aplicamos el comando ***python manage.py migrate*** presionamos enter y dejamos que la magia suceda.
 
+OK, todo muy lindo pero ¿Por qué elegimos DJango?
+Porque Django va a instalar estas APPS que nos permiten optimizar y reutilizar codigo de una manera asombrosa (Me estoy enamorando de esto! me preocupa el despliege pero esto es simplemente un parentesis no me hagan caso).
+
+Donde vemos estas apps que instalamos las vemos luego de ejecutar el comando manage.py migrate en el archivo settings.py en el diccionario creado llamado 
+
+**INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+]**
+
 
 
 
