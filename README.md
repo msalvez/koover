@@ -110,6 +110,15 @@ Cuando abrimos el servidor local vemos la bienvenida de Django a nuestro proyect
 
 El archivo de la instalación inicial esta en inglés y porque el mio se ve en español. Porque le modifique una variable en la pagina settings. Modificando el "lenguaje_code='en-us'" por "LANGUAGE_CODE = 'es'"
 
+Ahora volviendo a lo importante nosotros dijimos que ibamos a usar mysql como gestor de base de datos pero django trae por defecto a sqlite3 (son similares asi que vamos a utilizar la por defecto por ahora).
+
+¿Que tenemos que hacer ahora para poder configurar la base de datos?
+Acá fue donde me perdí un poco pero cuando realice la instalción de django en uno de los mensajes de la consola decia que la aplicacion no iba a funcionar correctamente hasta que no migrara los 14 archivos. "You have 14 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them." Enconces bueno hay que aplicar esa configuración.
+
+Tenemos que pausar el servidor presionando control+c y luego aplicamos el comando ***python manage.py migrate*** presionamos enter y dejamos que la magia suceda.
+
+
 
 
 ***********************************************
