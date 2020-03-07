@@ -9,7 +9,7 @@ Proyecto 1er año Circo-bIt
 Grupo integrado por Camilo, Darío, Maite, Mathias y Victoria.
 
 *************************************
-# end description / fin descripción #
+end description / fin descripción
 *************************************
 
 ****************************************************
@@ -42,7 +42,7 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 
 
 *********************************************************************************************
-# fin development enviroment description / Fin de la descripción del ambiente de desarrollo #
+fin development enviroment description / Fin de la descripción del ambiente de desarrollo
 *********************************************************************************************
 
 ***********************************************
