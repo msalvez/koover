@@ -10,7 +10,7 @@ Grupo integrado por Camilo, Darío, Maite, Mathias y Victoria.
 
 
 ****************************************************
-# Development environment / Ambiente de desarrollo #
+## Development environment / Ambiente de desarrollo ##
 ****************************************************
 We will use conda as a virtual development environment. In your version 3.18.9
 Django as a development framework in your version 2.0
