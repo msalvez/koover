@@ -48,6 +48,8 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 
 ../koover/wsgi.py
 
+8- Ahora podemos abrir nuestro editor de codigo de preferencia. (Recomendamos usar Visual estudio code)
+
 
 
 
@@ -63,9 +65,10 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 
 4- Create a chat to start a conversation with the kooveters // Crear un chat para hablar con los kooveters cuando sea necesario.
 
-======================================================================================
-###  important info  and contact info/ Información importante e información de contacto ### 
-======================================================================================
+******************************************************************************************
+### Important info  and contact info/ Información importante e información de contacto ### 
+******************************************************************************************
+
 PCNAME de desarrllo padre MATHIAS PC.
 PCNAMES de prueba CAMILO, DARIO, MAITE y VICTORIA.
 
@@ -73,9 +76,9 @@ Referente del grupo Darío Finelli = @dariofin
 Unificación de versiones a cargo de Mathias Alvez = @msalvez
 Desarrolladores de ambientes de prueba = Maite Navratil(@maitomomi), Victoria Flores(@VitoFlores) y Camilo Mandressi(@camilomandressi).
 
-================
+*********************
 ### CONTROL LOGS ### 
-================
+*********************
 
 ***07/03 - 15:30: Cambio de la estructura general del proyecto (Mathias A.)***
 
