@@ -60,9 +60,12 @@ C:\curso-python\koover>C:\ProgramData\Miniconda3\Scripts\activate C:\Users\Mathi
 (py36) C:\curso-python\koover>
 
 9- Vamos a instalar un par de complementos uno de ellos sera el resaltador de codigo **pylint**
+
 En la consola ya posicionados en nuestro ambiente vamos a colocar el siguiente comando:
+
 conda install pylint
-Presionamos enter y dejamos que la magia suceda. Luego le decimos que procesa presionando la tecla Y. 
+
+Presionamos enter y dejamos que la magia suceda. Luego le decimos que procesa presionando la tecla **Y**. 
 
 
 ***********************************************
