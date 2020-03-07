@@ -24,13 +24,19 @@ Django como framework de desarrollo en su version 2.0.2
 MySQL en su ultima versión.
 
 # Instrucciones para poder crearlo #
-1- instalar anaconda
-2- Abrir anaconda powershell promp
-3- En la consola colocar el siguiente comando( conda create -n py36 python==3.6 )
+1- instalar anaconda.
+
+2- Abrir anaconda powershell promp.
+
+3- En la consola colocar el siguiente comando( conda create -n py36 python==3.6 ).
+
 4- Una vez terminada la instalación ejecutar el siguiente comando (activate py36), para iniciar el ambiente de prueba.
-5- Cuando este inicializado el ambiente instalaremos django 2.0.2 a través de pip ejecutando el siguiente comando (pip install django==2.0.2)
+
+5- Cuando este inicializado el ambiente instalaremos django 2.0.2 a través de pip ejecutando el siguiente comando (pip install django==2.0.2).
+
 6- Ahora crearemos el proyecto Django Koover para poder ver exactamente estos recursos, unificarlos e ir actualizando el proyecto
-EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ruta especifica puede ejecutar el siguiente comando "cd C:\{aqui especifican el archivo ejemplo si esta en el escritorio y se llama koover la carpeta sera: C:\DESKTOP\koover} presionamos enter y allí ejecutamos el comando del proyecto"** (django-admin startproject koover)
+EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ruta especifica puede ejecutar el siguiente comando "cd C:\{aqui especifican el archivo ejemplo si esta en el escritorio y se llama koover la carpeta sera: C:\DESKTOP\koover} presionamos enter y allí ejecutamos el comando del proyecto"** (django-admin startproject koover).
+
 7- Nos dirigimos a la carpeta user en nuestro pc buscamos a nuestro usuario ejempo MathiasPC y alli buscamos nuestro proyecto koover el cual al iniciarse contiene las siguientes carpetas:
 
 /manage.py
@@ -39,6 +45,7 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 ../koover/settings.py
 ../koover/urls.py
 ../koover/wsgi.py
+
 
 
 *********************************************************************************************
