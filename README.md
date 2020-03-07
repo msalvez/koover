@@ -48,7 +48,7 @@ EJECUTAMOS en la consola **IMPORTANTE= si quieren instalar el proyecto en una ru
 
 ../koover/wsgi.py
 
-8- Ahora podemos abrir nuestro editor de codigo de preferencia. (Recomendamos usar Visual estudio code)
+8- Ahora podemos abrir nuestro editor de codigo de preferencia. (Recomendamos usar Visual estudio code ya que detecta el ambiente de desarrollo automaticamente, lo vemos en el borde inferior izquierdo del editor tenemos que abrir el archivo manage.py (Demora un poco en cargar el ambiente pero tendria que cargarles algo como esto "Python 3.7.6 (conda)"))
 
 
 
