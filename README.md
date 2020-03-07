@@ -68,7 +68,7 @@ conda install pylint
 Presionamos enter y dejamos que la magia suceda. Luego le decimos que procesa presionando la tecla **Y**. 
 
 *************************************************
-### Descripcion de los archivs que instalo Django ###
+### Descripcion de los archivos que instalo Django ###
 *************************************************
 
 **/manage.py** - Es un script que sirve para gestionar todo nuestro proyecto desde la conosola y lo vamos a usar un monton.
@@ -82,6 +82,23 @@ Presionamos enter y dejamos que la magia suceda. Luego le decimos que procesa pr
 **../koover/urls.py** - Es el fichero encargado de manejar las urls de la web, direcciones amigables, etc.
 
 **../koover/wsgi.py** - Contiene el codigo que desplegara nuestro proyecto en producción.
+
+*****************************************************
+### Comenzando a entender la cosa ###
+*****************************************************
+Una vez configurado el ambiente y entendiendo un poco más de que va la cosa, vamos a ver unas cositas importantes.
+La primera es que pasa si ejecutamos desde la consola el archivo manage.py.
+
+(Para poder hacerlo desde visual estudio code, vamos a pararnos arriba del archivo y con el botón derecho vamos a presionar run python file in terminal)
+
+Este script contiene escondidos muchos comandos importantes que al realizar esta acción nos empieza a revelar un poco la cosa. 
+A demas de abrirnos la carpeta raiz del proyecto (No se asusten jajaj).
+
+Uno de los comandos importantes es runserver.
+
+Ahora como desplegamos el servidor en nuestro entorno de desarrollo. 
+Es algo simple, lo que vamos a tener que ejecutar en la consola de comandos de visual estudio code es un comando y vamos a colocarlo ***python manage.py runserver**** presionamos enter y vamos a ver que pasa!
+
 
 
 ***********************************************
