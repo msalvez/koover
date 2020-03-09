@@ -218,6 +218,16 @@ Desarrolladores de ambientes de prueba = Maite Navratil(@maitomomi), Victoria Fl
 
 1- Se remplazan carpetas por las carpetas a utilizar en la version final del proyecto.
 
+***08/03 - 22:20: Cambio de la estructura del template perfil-backend2.html (Camilo M. y Mathias A.)***
+
+1- Se modifico el template perfil-backend2.html, se modifico la estructura interna.
+2- Se redacto la funcionalidad del formulario del login.html en la wiki
+3- Se instalo pillow para empezar a modular el codigo y las funciones para interactuar con la base de datos, el registro, el login y el logout.
+4- Se modifico en el template url.py y en views.py la ruta de perfil del usuario.
+
+
+
+
 
 
 
